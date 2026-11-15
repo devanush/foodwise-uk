@@ -1,0 +1,7 @@
+platform,restaurant,food_item,item_price_gbp,delivery_fee_gbp,service_fee_gbp,coupon_code,coupon_percent,coupon_min_spend_gbp,coupon_cap_gbp,taste_rating,review_count
+Uber Eats,Demo Kitchen A,Chicken Biryani,10.50,2.49,1.29,SAMPLE10,10,10,5,4.5,120
+Deliveroo,Demo Kitchen B,Chicken Biryani,9.95,2.99,1.49,SAMPLE10,10,10,5,4.3,87
+Just Eat,Demo Kitchen C,Chicken Biryani,10.25,1.99,0.99,SAMPLE10,10,10,5,4.6,201
+Uber Eats,Demo Pizza A,Margherita Pizza,11.00,2.49,1.29,SAMPLE10,10,10,5,4.4,63
+Deliveroo,Demo Pizza B,Margherita Pizza,10.50,2.99,1.49,SAMPLE10,10,10,5,4.7,96
+Just Eat,Demo Burger A,Cheeseburger,8.50,1.99,0.99,SAMPLE10,10,10,5,4.2,76
